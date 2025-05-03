@@ -1,4 +1,0 @@
-# Stacks
-
-## Array-Based Stack
-
